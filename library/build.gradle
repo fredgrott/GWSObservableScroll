@@ -103,6 +103,7 @@ dependencies {
     }
     compile rootProject.ext.androidSupportDependencies.design
     compile rootProject.ext.androidSupportDependencies.recyclerView
+    compile rootProject.ext.appDependencies.timber
 
 }
 install {
