@@ -18,7 +18,7 @@ Than in the module buildscript:
 
 
 ```groovy
-compile 'com.github.shareme:GWSObservableScroll:1.0.0.0@aar'
+compile 'com.github.shareme:GWSObservableScroll:{latest-release-number}@aar'
 ```
 
 
